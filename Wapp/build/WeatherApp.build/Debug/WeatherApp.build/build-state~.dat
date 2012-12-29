@@ -1,0 +1,68 @@
+TWeatherApp
+v7
+r1
+cCheck dependencies
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/WeatherApp/../../Places.plist
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/WeatherApp/en.lproj/InfoPlist.strings
+c000000004F4D625C000000000000002D
+t1330471516
+s45
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/WeatherApp/en.lproj/MainStoryboard.storyboard
+c000000004F4D625C0000000000002855
+t1330471516
+s10325
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Resources/Places.plist
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Resources/en.lproj/MainStoryboard.storyboard
+t2
+s0
+
+NWeatherApp/WeatherApp-Info.plist
+c000000004F4D625C00000000000004F6
+t1330471516
+s1270
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352164498#352164498#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'352164498#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCopyPlistFile "/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Resources/Places.plist" WeatherApp/../../Places.plist
+r0
+
+CCopyStringsFile "/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Resources/en.lproj/InfoPlist.strings" WeatherApp/en.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/WeatherApp.app/Contents/Resources/en.lproj/MainStoryboard.storyboard WeatherApp/en.lproj/MainStoryboard.storyboard
+r0
+
+CProcessInfoPlistFile "/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app/Contents/Info.plist" WeatherApp/WeatherApp-Info.plist
+r0
+
+CTouch "/Users/rbever/Documents/SeniorYear/Spring/CSE 494/Wapp/build/Debug/WeatherApp.app"
+r0
+

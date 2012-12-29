@@ -1,0 +1,167 @@
+// !$*UTF8*$!
+{
+	432C4A2214FD7B6200453B40 /* PlacesManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 378}";
+		};
+	};
+	432C4A2514FD7EA300453B40 /* PlacesListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 245}";
+		};
+	};
+	434017DD14EDA8B400E17584 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C9F1C08114FD9A3C005DD038 /* WeatherApp */;
+		activeTarget = 434017E514EDA8B400E17584 /* WeatherApp */;
+		codeSenseManager = C9F1C09114FD9A5F005DD038 /* Code sense */;
+		executables = (
+			C9F1C08114FD9A3C005DD038 /* WeatherApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					725,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					837,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352164412;
+			PBXWorkspaceStateSaveDate = 352164412;
+		};
+		perUserProjectItems = {
+			C9F1C0A014FD9AD2005DD038 /* PBXTextBookmark */ = C9F1C0A014FD9AD2005DD038 /* PBXTextBookmark */;
+			C9F1C0A114FD9AD2005DD038 /* PBXTextBookmark */ = C9F1C0A114FD9AD2005DD038 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9F1C09014FD9A5F005DD038 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	434017E514EDA8B400E17584 /* WeatherApp */ = {
+		activeExec = 0;
+		executables = (
+			C9F1C08114FD9A3C005DD038 /* WeatherApp */,
+		);
+	};
+	434017F914EDA8B400E17584 /* WappAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	434017FD14EDA8B400E17584 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1608, 1651}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2524}";
+			sepNavWindowFrame = "{{84, 61}, {806, 749}}";
+		};
+	};
+	434017FF14EDA8B400E17584 /* WappViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 335}";
+		};
+	};
+	4340180614EDA8B400E17584 /* WeatherAppTests */ = {
+		activeExec = 0;
+	};
+	C9F1C08114FD9A3C005DD038 /* WeatherApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WeatherApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	C9F1C09014FD9A5F005DD038 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9F1C09114FD9A5F005DD038 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9F1C0A014FD9AD2005DD038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 434017FF14EDA8B400E17584 /* WappViewController.h */;
+		name = "WappViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	C9F1C0A114FD9AD2005DD038 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 434017FF14EDA8B400E17584 /* WappViewController.h */;
+		name = "WappViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+}
